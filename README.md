@@ -6,6 +6,14 @@ A Starter Clean API Zero boiler plate code project
 
 This project is a starting point for a Flutter application.
 
+
+NOTICE:-Run the below command to generate codes network file and route file(route.gr.dart  & api.network.g.dart)
+
+flutter pub run build_runner watch --delete-conflicting-outputs
+
+
+
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
